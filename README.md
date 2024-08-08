@@ -1,4 +1,5 @@
-# FluxoDiarioAcoes
+# Fluxo Diario Ações
+
 [Finance_2.pdf](https://github.com/user-attachments/files/16539652/Finance_2.pdf)
 
 Este relatório explora diversos aspectos das atividades de negociação, com foco em quatro áreas principais: a quantidade total negociada e o valor negociado, a quantidade negociada por código de ação, a atividade dos participantes vendedores e compradores, e o preço de negociação por código de ação. As informações apresentadas fornecem uma visão abrangente das ações mais populares entre os investidores, a diversidade de códigos de identificação de negócios, e os padrões de comportamento de compra e venda. Com base nesses insights, é possível obter uma compreensão mais profunda dos fatores que influenciam o mercado de ações e tomar decisões de investimento mais informadas.
