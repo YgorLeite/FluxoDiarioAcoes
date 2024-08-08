@@ -1,4 +1,4 @@
-# Fluxo Diario Ações
+# Fluxo Diário Ações
 
 [Finance_2.pdf](https://github.com/user-attachments/files/16539652/Finance_2.pdf)
 
